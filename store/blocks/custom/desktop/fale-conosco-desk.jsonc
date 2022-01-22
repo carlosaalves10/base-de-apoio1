@@ -1,0 +1,13 @@
+{
+    "responsive-layout.desktop#fale":{
+        "children":[
+            "rich-text#fale-conosco-title-desk"
+        ]
+    },
+    
+    "rich-text#fale-conosco-title-desk":{
+        "props":{
+            "text": "Fale Conosco \n\n Horário de Atendimento \n\n Nossos canais de atendimento estão disponíveis nos horários de Segunda a Sexta Feira das 09:00 as 18:00 e Sábado das 9:00 as 13:00 \n\n Telefone: (42) 3532-4661 \n\n Whatsapp: (42) 98401-7730 \n\n Email: contato@basedeappoio.com.br"
+        }
+    }
+}
